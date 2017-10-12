@@ -1,0 +1,9 @@
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).exe.config
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).csprojResolveAssemblyReference.cache
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat_Client_.Properties.Resources.resources
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).csproj.GenerateResource.Cache
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).pdb
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).pdb
+C:\Users\MEYSAM\Documents\Visual Studio 2015\Projects\Chat(Client)\Chat(Client)\obj\Debug\Chat_Client_.FormClient.resources
